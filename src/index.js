@@ -6,5 +6,6 @@ import registerServiceWorker from './registerServiceWorker';
 import 'tachyons';
 
 // Adding a comment for Git
+// testing dev merge
 ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
